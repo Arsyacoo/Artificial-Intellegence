@@ -1,0 +1,16 @@
+pandas
+numpy
+ruptures
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+yfinance
+transformers
+torch
+vaderSentiment
+selenium
+beautifulsoup4
+requests
+tqdm
+pysentiment2
