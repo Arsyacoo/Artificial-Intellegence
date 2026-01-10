@@ -43,3 +43,8 @@ wheels/
 *.pth
 *.keras
 *.pkl
+
+# Generated Datasets
+sentiment_data.csv
+training_data.csv
+
